@@ -9,7 +9,7 @@ a{
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: rgb(224,255,255);
+    background: rgb(105,105,105);
 }
 .container{
     max-width:1100px;
@@ -17,7 +17,7 @@ body{
     padding:0 2rem;
 }
 #navigation{
-    background:rgb(175,238,238);
+    background:rgb(211,211,211);
 }
 #navigation .container{
     display:grid;
